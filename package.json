@@ -24,7 +24,7 @@
     "dependencies": {
         "async": "^2.0.0-rc.3",
         "grunt": ">=0.4.1",
-        "js-beautify": ">=1.4.2",
+        "js-beautify": "github:beautify-web/js-beautify#master",
         "lodash": ">=2.4.1",
         "rc": ">=0.5.5",
         "semver": ">=4.3.1",
